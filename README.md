@@ -1,1 +1,1 @@
-# python-k-k-projeler
+# python-projeler
