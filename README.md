@@ -1,8 +1,7 @@
 ## Kullanım
-* Pubg.py dosyası sizin için bir pubg logosu çizer
+* Pubg.py dosyası sizin için yapay zeka ile bir pubg logosu çizer
 * calculator.py resimli bir hesap makinesi açar
-* dino.py için kameranızın olması şarttır
-* Discord: Wasp#1000
+* dino.py yapay zeka ile çalışan bir dinozor oyunudur kamera şarttır
 * Herhangi bir sıkıntıda discord adresime ulaşabilirsiniz
 
 
